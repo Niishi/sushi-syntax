@@ -1,5 +1,17 @@
-# sushi-syntax theme
+# sushi-syntax
+![sushi](http://i.imgur.com/U2JfKk4.jpg)
 
-A short description of your theme.
+![sample](http://i.imgur.com/h1792dz.png)
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Under construction.
+There's a possibility that schedule may be modified.
+
+## HTML
+![html](http://i.imgur.com/jweyXxT.png)
+
+## less
+![less](http://i.imgur.com/6sTmjdL.png)
+
+## JavaScript
+![JavaScript](http://i.imgur.com/SaGicPD.png)
+> The font used in these screenshots is [Hack](http://sourcefoundry.org/hack/)

@@ -2,12 +2,14 @@
   "name": "sushi-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "I love sushi!",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "sushi",
+    "dark"
   ],
-  "repository": "https://github.com/atom/sushi-syntax",
+  "repository": "https://github.com/Niishi/sushi-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
